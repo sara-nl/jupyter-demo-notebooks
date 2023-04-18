@@ -1,3 +1,5 @@
+**This repository has been archived. For information about SURF's Jupyter service, please see the SURF [website](https://www.surf.nl/en/jupyter-notebook-accessible-and-interactive-data-analysis-for-research-and-education).**
+
 # Introducing JupyterHub
 This is a [Jupyter](https://jupyter.org/index.html)Hub demonstration environment provided by SURFsara. The account you have for this environement should only used for evaluation purposes. SURFsara has the right to suspend or change this demo service at any time.
 
